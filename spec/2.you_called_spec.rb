@@ -1,3 +1,4 @@
+require 'pry'
 require_relative '../first_priority/you_called'
 
 describe "you_called" do
